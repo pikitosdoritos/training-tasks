@@ -37,3 +37,6 @@ def find_unique_symbol():
 print(find_unique_symbol())
 
 # We have to strings. Return if it`s anagram.
+
+s = "anagram"
+t = "nagaram"
