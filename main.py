@@ -35,3 +35,5 @@ def find_unique_symbol():
             return s.index(key)
             
 print(find_unique_symbol())
+
+# We have to strings. Return if it`s anagram.
